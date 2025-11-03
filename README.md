@@ -4,6 +4,10 @@
 This project analyzes the **2020 USDA Farm Service Agency (FSA)** payment distributions in **Iowa**, a year shaped by the dual crises of the **COVID-19 pandemic** and the **U.S.–China trade war**.  
 The goal of this analysis is to understand how crisis-driven relief programs compared to traditional FSA payments and how these emergency measures reshaped agricultural support across the state.
 
+### Course Context
+
+This project was completed over a two-week period for ISYS 51003: Data Analytics Fundamentals at the University of Arkansas.
+It served as a practical application of data cleaning, visualization, and statistical analysis using Python and real-world USDA datasets.
 
 ---
 
@@ -41,9 +45,3 @@ This project was completed in **Python 3.9+** using the following packages:
 - `geopandas` – geospatial visualization and county-level mapping  
 
 ---
-
-### How to Run the Analysis
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/FSA-Iowa-2020.git
-   cd FSA-Iowa-2020
